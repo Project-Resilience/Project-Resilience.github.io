@@ -5,7 +5,7 @@ Allocation of land for different uses significantly affects carbon balance and c
 
 <!-- Insert SDG Icons and links-->
 | [![Goal 13](../images/sdgs/E-WEB-Goal-13.png)](../goals/goal_13) | [![Goal 15](../images/sdgs/E-WEB-Goal-15.png)](../goals/goal_15) |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+|------------------------------------------------------------------|------------------------------------------------------------------|
 
 ## Decision makers
 
